@@ -1,13 +1,13 @@
 {
   "name": "baccarat-747",
   "theme": "syntax",
-  "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "version": "0.1.0",
+  "description": "บาคาร่าออนไลน์ เกมไพ่น่าเล่น ทำเงินได้ดีมากที่สุด เดิมพันขั้นต่ำ 10 บาท",
   "keywords": [
-    "syntax",
-    "theme"
+    "บาคาร่าออนไลน์",
+    "บาคาร่าออนไลน์ เกมไพ่น่าเล่น ทำเงินได้ดีมากที่สุด เดิมพันขั้นต่ำ 10 บาท"
   ],
-  "repository": "https://github.com/atom/baccarat-747",
+  "repository": "https://github.com/casino747/baccarat-747",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
